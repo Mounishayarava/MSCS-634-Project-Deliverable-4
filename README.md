@@ -1,5 +1,4 @@
-# MSCS-634-Project-Deliverable-4
-# MSCS 634 Project: Data Mining and Predictive Analytics
+# MSCS-634-Project-Deliverable-4: Data Mining and Predictive Analytics
 
 # Project Overview
 This project applies multiple data mining and machine learning techniques to analyze customer churn behavior. The goal is to extract meaningful insights from customer data, build predictive models, and identify patterns that can help businesses reduce customer loss and improve engagement strategies.
